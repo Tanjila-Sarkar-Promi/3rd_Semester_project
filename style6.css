@@ -1,0 +1,27 @@
+body
+{
+  margin: 0;
+  padding: 0;
+  background-color: #D8BFD8;
+}
+img{
+  float: left;
+  width: 500px;
+  height: 300px;
+  padding: 90px 10px 70px;
+}
+h1
+{
+  font-family: arial,"Times New Roman";
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 600;
+  text-decoration: inherit;
+}
+
+.text{
+  text-align: inherit;
+  font-size: 18;
+  padding: 7px;
+  color: #2F4F4F;
+}

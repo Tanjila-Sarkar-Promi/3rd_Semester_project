@@ -1,0 +1,26 @@
+body
+{
+  margin: 0;
+  padding: 0;
+  background-color: lavender;
+}
+img{
+  float: left;
+  width: 500px;
+  height: 250px;
+  padding: 30px 350px 20px;
+}
+h1
+{
+  font-family: arial,"Times New Roman";
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 600;
+  text-decoration: inherit;
+}
+.text{
+  text-align: inherit;
+  font-size: 20;
+  padding: 280px;
+  color: maroon;
+}
